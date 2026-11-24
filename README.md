@@ -1,53 +1,57 @@
-
 # Hi, I'm Harsha B.R.
 
-### Engineering Student | Cybersecurity Enthusiast | Exploring AI & Technology
+### Information Security Student | Cybersecurity Enthusiast | Exploring AI & Technology
 
-I am an engineering student with a growing interest in **Cybersecurity, Artificial Intelligence, and Software Development**. My journey in technology is driven by curiosity, continuous learning, and the motivation to understand how systems work and how they can be made more secure.
+I'm an engineering student at GM University, pursuing Computer Science Engineering with a focus on Cybersecurity. I'm interested in understanding how systems work, identifying security threats, and exploring ways to protect digital environments.
 
-I believe in learning by doing. Alongside my academic studies, I am developing my technical skills through hands-on practice, personal projects, technical learning programmes, and experimentation with emerging technologies.
+I believe in continuous learning and building a strong technical foundation through academic studies, practical exploration, and hands-on learning.
 
-### About My Journey
+## About Me
 
-My engineering journey is helping me build a foundation in computer science while exploring the practical side of technology. I am particularly interested in cybersecurity and how artificial intelligence can contribute to identifying threats, improving security, and solving real-world problems.
+- Information Security student at GM University.
+- Interested in Cybersecurity and Information Security.
+- Exploring Network Security and Defensive Security.
+- Interested in SOC Operations, Blue Team Security and DFIR.
+- Learning Python and C programming.
+- Exploring Artificial Intelligence and its applications in technology.
 
-I aim to keep improving through consistent practice, collaboration, and project-based learning.
-
-### Areas of Interest
+## Areas of Interest
 
 - Cybersecurity and Information Security
-- Network Security and Threat Detection
+- Network Security
+- SOC Operations and Blue Team Security
+- Digital Forensics and Incident Response (DFIR)
 - Artificial Intelligence and Machine Learning
-- Python Programming
-- Software Development
-- Secure Systems and Emerging Technologies
 
-### Currently Learning
+## Currently Learning
 
-- Strengthening my cybersecurity fundamentals
-- Exploring AI-assisted development and practical AI applications
-- Improving Python programming and problem-solving
-- Building hands-on projects and experimenting with security concepts
+- Cybersecurity fundamentals
+- Computer Networking
+- Linux and Windows fundamentals
+- Python programming
+- Security monitoring and threat detection
 
-### Projects
+## Technical Background
 
-I use this space to document my learning journey, experiment with new technologies, and showcase projects that demonstrate my practical understanding.
+- **Programming:** Python, C
+- **Database:** SQL, DBMS
+- **Web Technologies:** Web Development
+- **Other Interests:** Cybersecurity, AI and Network Security
 
-One of the areas I am exploring is **network security and intrusion detection**, including an ARP-based intrusion detection concept for campus networks.
+## My Goals
 
-### My Approach
+- Strengthen my computer science and cybersecurity fundamentals.
+- Develop practical skills through hands-on learning.
+- Explore SOC operations and defensive security.
+- Gradually develop knowledge in Digital Forensics and Incident Response.
+- Build meaningful technical projects as I progress.
+- Continuously improve through learning and experimentation.
 
-- Learn the fundamentals before moving to advanced concepts.
-- Build projects to apply theoretical knowledge.
-- Explore technologies beyond the classroom.
-- Participate in technical activities and collaborative learning.
-- Improve continuously through practice and feedback.
+## Connect With Me
 
-### Connect With Me
-
+- **LinkedIn:** [Harsha Bullavar](https://www.linkedin.com/in/harsha-bullavar/)
 - **GitHub:** [@harsha-bullavar](https://github.com/harsha-bullavar)
-- **LinkedIn:** www.linkedin.com/in/harsha-bullavar
 
 ---
 
-*Learning continuously. Building consistently. Growing through technology.*
+*Learning continuously. Building my foundation. Growing through technology.*
